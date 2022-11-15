@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an outline of topics and questions relating to
+  the study of object and facial recognition.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
