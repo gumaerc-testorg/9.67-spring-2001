@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  a term project, a report, and research questions that students must produce for
+  each class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,4 +30,4 @@ In teams of 2, students will teach assigned topics and write a report to be hand
 Research Questions
 ------------------
 
-The research questions are an example of the questions each student has to produce for every class based on the readings and student-student interaction. ([PDF]({{< baseurl >}}/resources/research_questions))
+The research questions are an example of the questions each student has to produce for every class based on the readings and student-student interaction. ({{% resource_link b5296a24-9369-736b-f8a8-c9ee90dfb66f "PDF" %}})
