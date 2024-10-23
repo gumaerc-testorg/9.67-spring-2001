@@ -2,7 +2,7 @@
 content_type: resource
 description: 'These questions are an example of the questions each student has to
   produce for every class based on the readings and student-student interaction. '
-file: /courses/9-67-object-and-face-recognition-spring-2001/b5296a249369736bf8a8c9ee90dfb66f_research_questions.pdf
+file: /ol-ocw-studio-app/courses/9-67-object-and-face-recognition-spring-2001/b5296a249369736bf8a8c9ee90dfb66f_research_questions.pdf
 file_size: 82765
 file_type: application/pdf
 learning_resource_types:
